@@ -24,7 +24,7 @@ Then, we’ll determine whether refactoring our code successfully made the VBA s
          tickerVolumes(i) = 0
          tickerStartingPrices(i) = 0
          tickerEndingPrices(i) = 0
-        Next i
+       Next i
         
       '2b) Loop over all the rows in the spreadsheet.
        For i = 2 To RowCount
