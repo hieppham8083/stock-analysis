@@ -42,7 +42,7 @@ Then, we’ll determine whether refactoring our code successfully made the VBA s
          If Cells(i, 1).Value = tickers(tickerIndex) And Cells(i + 1, 1).Value <> tickers(tickerIndex) Then
             tickerEndingPrices(tickerIndex) = Cells(i, 6).Value
             
-      '3d Increase the tickerIndex.
+      '3d) Increase the tickerIndex.
             tickerIndex = tickerIndex + 1
          End If
              
