@@ -47,3 +47,6 @@ Then, we’ll determine whether refactoring our code successfully made the VBA s
          End If
              
        Next i
+
+### Summary
+#### The advantages and disadvantages of refactoring code in general
