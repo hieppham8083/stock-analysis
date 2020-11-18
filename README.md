@@ -9,8 +9,8 @@ Then, we’ll determine whether refactoring our code successfully made the VBA s
 ### Analysis and Challenges
 - There are 12 different stocks. We have to retrieve the ticker, the total daily volume, and the return on each stock.
 - Create the input box, chart headers, ticker array, and activate the worksheet, write the following the script:
-
-   '1a) Create a ticker Index
+   
+      '1a) Create a ticker Index
     Dim tickerIndex As Byte
     tickerIndex = 0
 
