@@ -54,7 +54,6 @@ Then, we’ll determine whether refactoring our code successfully made the VBA s
    
 #### The original vs. refactored VBA script:
    - The original analysis took almost one second to run, and refactored analysis took less than 0.1 second to run. 
-     
-     Refer to the following photos.
+                                             Refer to the following photos.
                               ![alt text](../main/Resources/Compare.JPG "The original vs. refactored")
    
